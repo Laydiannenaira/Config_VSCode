@@ -1,0 +1,22 @@
+* Name: ESLint
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+* Name: Color Highlight
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight
+* Name: DotENV
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv
+* Name: Dracula Official
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula
+* Name: EditorConfig for VS Code
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+* Name: GitLens — Git supercharged
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+* Name: IntelliSense for CSS class names in HTML
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion
+* Name: Live Server
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+* Name: Material Icon Theme
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+* Name: Prettier - Code formatter
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+* Name: Thunder Client
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client
